@@ -1,11 +1,11 @@
-## Neil Armstrong
+## Rose Mead
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+- I love singing.
+- I have five brothers.
+- I love coffee.
 
-## Buzz Aldrin
+## Emily Coco Parkes
 
-- I can hula hoop.
-- I love climbing trees.
-- I am afraid of dentists.
+- My middle name is legally Coco.
+- I've been to more than 13 countries.
+- I'm naturally a redhead.
