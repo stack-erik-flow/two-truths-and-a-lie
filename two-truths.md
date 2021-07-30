@@ -7,5 +7,5 @@
 ## Emily Coco Parkes
 
 - My middle name is legally Coco.
-- I've been to more than 13 countries.
+- I've been to more than 12 countries.
 - I'm naturally a redhead.
