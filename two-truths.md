@@ -1,11 +1,10 @@
-## Neil Armstrong
+## Sarah Emerson
+- I used to live in Palmerston North
+- I like otters
+- I'm allergic to tomatoes
 
-- I can play the guitar.
-- I love camping.
-- I am afraid of birds.
+## JV
 
-## Buzz Aldrin
-
-- I can hula hoop.
+- I have two dogs
 - I love climbing trees.
 - I am afraid of dentists.
