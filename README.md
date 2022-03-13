@@ -7,15 +7,16 @@ Let's get to know each other better, using Git and GitHub! We'll play an icebrea
 
 ## Release 0: Clone the Repo and Create a Branch
 
-1. Clone this repo. In your browser find the clone URL in the sidebar and copy it. In your terminal, run the following command, replacing `CLONE_URL` with the URL you copied:
+1. You might like to first create a directory to organise your repos, e.g. using `mkdir week1` to create the directory, and `cd week1` to get into it.
+
+2. Clone this repo. In your browser find the clone URL in the sidebar and copy it. In your terminal, run the following command, replacing `CLONE_URL` with the URL you copied:
 
   ```shell
-  cd ~/workspace
   git clone CLONE_URL
   cd two-truths-and-a-lie
   ```
 
-2. Now we're going to create a branch! To do this we use the `git branch` command. `git branch` on its own lists out all local branches, but when you give it an argument it creates a new branch. A new branch is a copy of the current branch with a different name.
+3. Now we're going to create a branch! To do this we use the `git branch` command. `git branch` on its own lists out all local branches, but when you give it an argument it creates a new branch. A new branch is a copy of the current branch with a different name.
 
   In your terminal, run the following command, replacing `YourName` with your name:
 
@@ -30,16 +31,16 @@ Let's get to know each other better, using Git and GitHub! We'll play an icebrea
   git checkout -b YourName-PartnersName
   ```
 
-3. Modify the file `two-truths.md` so that for each of you it contains your name, and three facts about you. One of these facts should be completely made up. You should remove the entries for Neil Armstrong and Buzz Aldrin. 
+4. Modify the file `two-truths.md` so that for each of you it contains your name, and three facts about you. One of these facts should be completely made up. You should remove the entries for Neil Armstrong and Buzz Aldrin. 
 
-4. Stage and commit your file to the project with the following commands:
+5. Stage and commit your file to the project with the following commands:
 
   ```shell
   git add .
   git commit -m "Added truths and lies"
   ```
 
-5. Now push your branch to GitHub with
+6. Now push your branch to GitHub with
 
   ``` shell
   git push origin YourName-PartnersName
