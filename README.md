@@ -15,15 +15,7 @@ Let's get to know each other better, using Git and GitHub! We'll play an icebrea
   cd two-truths-and-a-lie
   ```
 
-2. Tell git who is driving: [in person cohort only]
-
-_This step is not required for online students - this is how we credit commits under your name when you're working on an on-campus machine. If you're working on your own machine, you will have configured git globally already._
-
-  ```shell
-  git iam DRIVERS_FIRST_NAME
-  ```
-
-3. Now we're going to create a branch! To do this we use the `git branch` command. `git branch` on its own lists out all local branches, but when you give it an argument it creates a new branch. A new branch is a copy of the current branch with a different name.
+2. Now we're going to create a branch! To do this we use the `git branch` command. `git branch` on its own lists out all local branches, but when you give it an argument it creates a new branch. A new branch is a copy of the current branch with a different name.
 
   In your terminal, run the following command, replacing `YourName` with your name:
 
@@ -38,16 +30,16 @@ _This step is not required for online students - this is how we credit commits u
   git checkout -b YourName-PartnersName
   ```
 
-4. Modify the file `two-truths.md` so that for each of you it contains your name, and three facts about you. One of these facts should be completely made up. You should remove the entries for Neil Armstrong and Buzz Aldrin. 
+3. Modify the file `two-truths.md` so that for each of you it contains your name, and three facts about you. One of these facts should be completely made up. You should remove the entries for Neil Armstrong and Buzz Aldrin. 
 
-5. Stage and commit your file to the project with the following commands:
+4. Stage and commit your file to the project with the following commands:
 
   ```shell
   git add .
   git commit -m "Added truths and lies"
   ```
 
-6. Now push your branch to GitHub with
+5. Now push your branch to GitHub with
 
   ``` shell
   git push origin YourName-PartnersName
@@ -55,7 +47,8 @@ _This step is not required for online students - this is how we credit commits u
   
 
 ## Release 1 : Find the Lie
-A teacher will guide you to find the cohort mates with whom you're going to play lie detector. Ask your teacher who you're busting!
+Post in the `general` channel in Discord when your branch is ready to be busted.
+When you select another pair's branch to bust, mark their Discord message with an emoji reaction.
 
 1. Pull your cohort mates branch from GitHub into your local repository.
 
